@@ -1,0 +1,12 @@
+2023-11-21 23:03:26,356 - Player X made a move to (0, 0)
+2023-11-21 23:03:26,356 - Player O made a move to (1, 2)
+2023-11-21 23:03:31,487 - Player X made a move to (0, 2)
+2023-11-21 23:03:31,487 - Player O made a move to (2, 1)
+2023-11-21 23:03:35,983 - Player X made a move to (0, 1)
+2023-11-21 23:03:35,983 - Winner is Player X
+2023-11-21 23:03:45,061 - Player X made a move to (1, 2)
+2023-11-21 23:03:46,595 - Player O made a move to (2, 1)
+2023-11-21 23:03:50,816 - Player X made a move to (1, 1)
+2023-11-21 23:03:53,879 - Player O made a move to (0, 0)
+2023-11-21 23:03:56,629 - Player X made a move to (1, 0)
+2023-11-21 23:03:56,629 - Winner is Player X
